@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshata Ubhale
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning computer engineering.I am an 2nd year B.tech student.
+- 👀 I’m exploring coding 
+- 🌱 I’m currently learning computer engineering.I am an 3nd year B.tech student.
 - 💞️ I’m looking to collaborate on anything which is related to coding and help me grow any sort of project or idea and explore new things.
 - 📫 How to reach me you go on akshatagithub@gmail.com
 - ⚡ Fun fact: The first-ever computer programmer was a woman named Ada Lovelace.
